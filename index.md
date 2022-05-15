@@ -25,8 +25,6 @@ I was still thinking how to involve in Toastmasters club, evaluating my options 
 I saw that there're no other candidates for this role; even the election sounds easy, the responsibility is not. So thanks for deciding for me. I promise that I will do my job as good as possible. If you have any suggestion, please feel free to share with me. One think I learn in my life earlier is we are not alone in any journey. Being in a club is giving me thoughts of many members not only mine. I am open to criticism and have a thick skin as soon as you're transparent to any solution. I cannot invent the wheel alone, I wll need your support to do that. The problem is half solved, only if you can define it properly.
 
 
-It 
-
 ---
 ```markdown
 Syntax highlighted code block
