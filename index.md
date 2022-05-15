@@ -7,6 +7,16 @@ I have grown a taste for Hard Rock after I graduated from High School. One of my
 
 My son wanted to play piano at age 4, my wife took him to the Baldwin Music Education Center once in a week. He continued his classes with various teachers. He also attended University of Cincinnati College Conservatory of Music. He played alto and baritone saxophone in Sycamore schools and he was the synth player with the band at the band. He visited Taiwan for concert program with other players from CCM. He played several alto-saxophone and piano pieces with his friends.
 
+I didn't attempt to write and talk before. This may be my first non-technical conversation. I like developing applications. After I started developing new applications, I felt that I was not able to create as many application as I wanted to, so I begin working with teams to create applications and serve others.
+
+My passion is in usability. I believe web based applications are the basis of what we are developing to expand the usability and compatibility accross different devices. Most languages have web frameworks that streamline the development of web based applications.
+
+I learned the importance of testing but I also learned about quality should be embedded to your process instead of validating later. There are some principles that I learn but I always regret that I learned them late. I wish I would experience them 10 years earlier.
+
+I will try to summarize these principles that I value. First one I value is continuous learning. It's important that you talk using the same language as others. I am not a native English speaker. I am worst in langiage studies but I still learnt German and a littl bit Spanish and French that I started forgetting them since I am not using them at all.
+
+
+
 You can use the [editor on GitHub](https://github.com/leventgorur/witty/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
