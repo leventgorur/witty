@@ -20,6 +20,8 @@ I learned the importance of testing but I also learned about quality should be e
 
 I will try to summarize these principles that I value. First one I value is continuous learning. It's important that you talk using the same language as others. I am not a native English speaker. I am worst in langiage studies but I still learnt German and a littl bit Spanish and French that I started forgetting them since I am not using them at all.
 
+Java Script - [Let's Code](https://www.letscodejavascript.com/)
+
 ## Membership
 I was still thinking how to involve in Toastmasters club, evaluating my options for roles that I can be helpful; then I found myself nominated for this role. First of all, thank you, for your trust to me. And thank you for encouraging me for this role; I couldn't find myself worthy of such responsibility for another decade or so.
 
