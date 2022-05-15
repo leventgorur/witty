@@ -8,10 +8,10 @@ I have grown a taste for Hard Rock after I graduated from High School. One of my
 ## Roots
 My uncle was knownplaying rock guitar best in our city but he never thought it as a profession until he became a teacher of music. He had two brilliant daughters, oldest one is classical piano teacher in the state conservatory in Capitol City and the youngest one used to play Violin in philarmony and shre recently moved to Boston with his husband and her kids. When I was a kid, I was listening his records at home and play with his Marshall guitar amplifier.
 
-My son wanted to play piano at age 4, my wife took him to the Baldwin Music Education Center once in a week. He continued his classes with various teachers. He also attended University of Cincinnati College Conservatory of Music. He played alto and baritone saxophone in Sycamore schools and he was the synth player with the band at the band. He visited Taiwan for concert program with other players from CCM. He played several alto-saxophone and piano pieces with his friends.
+My son wanted to play piano at age 4, my wife took him to the Baldwin Music Education Center once in a week. He continued his classes with various teachers. He also attended University of Cincinnati College Conservatory of Music. He played alto and baritone saxophone in Sycamore schools and he was the synth player with the band at the band. He visited Taiwan for concert program with other players from CCM. He played several alto-saxophone and piano pieces with his friends.  
 
 ## Development
-I didn't attempt to write and talk before. This may be my first non-technical conversation. I like developing applications. After I started developing new applications, I felt that I was not able to create as many application as I wanted to, so I begin working with teams to create applications and serve others.
+I didn't attempt to write and talk before. This may be my first non-technical conversation but still titled "Development". I like developing applications. After I started developing new applications, I felt that I was not able to create as many application as I wanted to, so I begin working with teams to create applications and serve others. While I was totally introvert developing my applications, I noticed that I am becoming extrovert when I am working in a team
 
 My passion is in usability. I believe web based applications are the basis of what we are developing to expand the usability and compatibility accross different devices. Most languages have web frameworks that streamline the development of web based applications.
 
@@ -19,16 +19,15 @@ I learned the importance of testing but I also learned about quality should be e
 
 I will try to summarize these principles that I value. First one I value is continuous learning. It's important that you talk using the same language as others. I am not a native English speaker. I am worst in langiage studies but I still learnt German and a littl bit Spanish and French that I started forgetting them since I am not using them at all.
 
+## Membership
+I was still thinking how to involve in Toastmasters club, evaluating my options for roles that I can be helpful; then I found myself nominated for this role. First of all, thank you, for your trust to me. And thank you for encouraging me for this role; I couldn't find myself worthy of such responsibility for another decade or so.
+
+I saw that there're no other candidates for this role; even the election sounds easy, the responsibility is not. So thanks for deciding for me. I promise that I will do my job as good as possible. If you have any suggestion, please feel free to share with me. One think I learn in my life earlier is we are not alone in any journey. Being in a club is giving me thoughts of many members not only mine. I am open to criticism and have a thick skin as soon as you're transparent to any solution. I cannot invent the wheel alone, I wll need your support to do that. The problem is half solved, only if you can define it properly.
 
 
-You can use the [editor on GitHub](https://github.com/leventgorur/witty/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+It 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+---
 ```markdown
 Syntax highlighted code block
 
