@@ -23,9 +23,13 @@ I will try to summarize these principles that I value. First one I value is cont
 Java Script - [Let's Code](https://www.letscodejavascript.com/)
 
 ## Membership
-I was still thinking how to involve in Toastmasters club, evaluating my options for roles that I can be helpful; then I found myself nominated for this role. First of all, thank you, for your trust to me. And thank you for encouraging me for this role; I couldn't find myself worthy of such responsibility for another decade or so.
-
-I saw that there're no other candidates for this role; even the election sounds easy, the responsibility is not. So thanks for deciding for me. I promise that I will do my job as good as possible. If you have any suggestion, please feel free to share with me. One think I learn in my life earlier is we are not alone in any journey. Being in a club is giving me thoughts of many members not only mine. I am open to criticism and have a thick skin as soon as you're transparent to any solution. I cannot invent the wheel alone, I wll need your support to do that. The problem is half solved, only if you can define it properly.
+While I was still thinking how to involve in the Broadway Toastmasters club, evaluating my options for roles that I can be helpful; suddenly I found myself nominated for this role. First of all, thank you, for your trust to me. And thank you for encouraging me for this role; I couldn't find myself worthy of such responsibility for another decade or so.
+I saw that there're no other candidates for this role; even the election results sound easy, the responsibility is not. So thanks again, for deciding for me. I promise that I will do my job as good as possible. If you have any suggestion, please feel free to share with me. One think I learn in my life, not early enough, is that we are not alone in any journey. Being in an organization is giving me ideas from many members not only mine. I will have to synthesize other's thoughts and will transition out my personal opinion. 
+We are an educational organization, we came here to improve our relationship and public speaking skills. We have to pay attention to our members and support them in this journey. Here's some challenges that I am looking for your help
+	- While quality is important, we have to support as many members as possible for W&S. 
+	- The efforts to improvement is personal and we need to focus individuals.
+	- We shouldn't degrade our process quality to increase our influence and member base.
+I am transparent, open to criticism, and I have a thick skin. But I cannot invent the wheel alone, I will definitely need your help to do that.
 
 
 ---
