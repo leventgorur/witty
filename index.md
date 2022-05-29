@@ -23,8 +23,10 @@ I will try to summarize these principles that I value. First one I value is cont
 Java Script - [Let's Code](https://www.letscodejavascript.com/)
 
 ## Membership
+
 While I was still thinking how to involve in the Broadway Toastmasters club, evaluating my options for roles that I can be helpful; suddenly I found myself nominated for this role. First of all, thank you, for your trust to me. And thank you for encouraging me for this role; I couldn't find myself worthy of such responsibility for another decade or so.
-<P><BR>I saw that there're no other candidates for this role; even the election results sound easy, the responsibility is not. So thanks again, for deciding for me. I promise that I will do my job as good as possible. If you have any suggestion, please feel free to share with me. One think I learn in my life, not early enough, is that we are not alone in any journey. Being in an organization is giving me ideas from many members not only mine. I will have to synthesize other's thoughts and will transition out my personal opinion. </P>
+
+I saw that there're no other candidates for this role; even the election results sound easy, the responsibility is not. So thanks again, for deciding for me. I promise that I will do my job as good as possible. If you have any suggestion, please feel free to share with me. One think I learn in my life, not early enough, is that we are not alone in any journey. Being in an organization is giving me ideas from many members not only mine. I will have to synthesize other's thoughts and will transition out my personal opinion. </P>
 
 We are an educational organization, we came here to improve our relationship and public speaking skills. We have to pay attention to our members and support them in this journey. Here's some challenges that I am looking for your help
 - While quality is important, we have to support as many members as possible for W&S. 
