@@ -26,7 +26,7 @@ Java Script - [Let's Code](https://www.letscodejavascript.com/)
 
 While I was still thinking about how to involve in the **Broadway Toastmasters** club, evaluating my options for roles where I can be helpful; suddenly I found myself nominated for this role. First of all, thank you, for your trust in me. And thank you for encouraging me for this role; I couldn't find myself worthy of such responsibility for another decade or so.
 
-I saw that there're no other candidates for this role; even the election results sound easy, the responsibility is not. So thanks again, for deciding for me. I promise that I will do my job as good as possible. If you have any suggestion, please feel free to share them with me. One think I learn in my life, not early enough, we are not alone in any journey. I will synthesize your thoughts and with my personal opinion.
+I saw that there're no other candidates for this role; even the election results sound easy, the responsibility is not. So thanks again, for deciding for me. I promise that I will do my job as good as possible. If you have any suggestion, please feel free to share them with me. One think I learn in my life, not early enough, we are not alone in any journey. I will synthesize your thoughts with my personal opinion.
 
 We are an educational organization, we came here to improve our relationship and public speaking skills. We have to pay attention to each other and provide support in this journey. Here's some challenges that I am looking for your help.
 - While quality is important, we have to support as many members as possible for W&S. 
